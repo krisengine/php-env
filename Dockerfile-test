@@ -1,0 +1,2 @@
+FROM krisengine/php-application:latest
+COPY ./index.php /var/www/public/index.php
